@@ -1,11 +1,14 @@
-
 #### Contact
 
-Email: 23104040113@stu.sbs.edu.cn
+**Email**: 23104040113@stu.sbs.edu.cn  
 
 #### Education
-B.E., Internet of Things Engineering, Shanghai Business School, 2023—present.
+
+**Shanghai Business School** (2023 - Present)  
+B.E. in Internet of Things Engineering  
+GPA: 3.41/4.0, Major Ranking: 1/49
 
 #### Research Interests
-Deep Learning, LLM
+
+Deep Learning, Large Language Models, Artificial Intelligence, Internet of Things, Embodied Intelligence
 
